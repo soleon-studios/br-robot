@@ -8,6 +8,7 @@ This project is a sample web application built Typescript and React as part as a
 - [Setting up locally](#setting-up-local)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
+- [Future Enhancements](#Future-enhancements)
 
 ## Installation
 
@@ -53,3 +54,9 @@ This project is a sample web application built Typescript and React as part as a
 
 - React: JavaScript library for building user interfaces.
 - Typescript: Strongly typed programming language.
+
+## Future Enhancements
+
+- Add unit testing (utilising tools just as Jest or Vitest) and add snapshots
+- Configure WebPack to bundle the application
+- Create alias to paths to create a more positive developer experience
