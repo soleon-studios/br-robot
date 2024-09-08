@@ -1,0 +1,12 @@
+.grid-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  margin: 20px;
+}
+
+.grid {
+  display: grid;
+  gap: 5px;
+}

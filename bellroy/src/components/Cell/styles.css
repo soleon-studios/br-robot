@@ -1,0 +1,10 @@
+.cell {
+  width: 70px;
+  height: 70px;
+  border: 1px solid #e15a1d;
+  border-radius: 5px;
+  background-color: rgb(247 247 247);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
