@@ -37,8 +37,9 @@ This project is a sample web application built Typescript and React as part as a
 
    ```bash
    npm start
-   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
    ```
+
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Project Structure
 
